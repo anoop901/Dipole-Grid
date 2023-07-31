@@ -4,7 +4,6 @@ location.
 
 # How to run
 
-1. [Have `ant` installed.](https://ant.apache.org/index.html)
-2. `ant compile`
-3. `ant jar`
-4. `ant run`
+1. [Have Maven installed.](https://maven.apache.org/install.html)
+2. `mvn package`
+3. `java -jar target/dipolegrid-1.0-SNAPSHOT.jar`

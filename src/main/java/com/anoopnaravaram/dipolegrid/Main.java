@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package dipolegrid;
+package com.anoopnaravaram.dipolegrid;
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;
